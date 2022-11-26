@@ -1,6 +1,6 @@
 # SelfSupervised-models-repo
 This is for presentation about self supervised models.
-  1. Hubert:
+  1. 
       HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units (Facebook)
       https://arxiv.org/abs/2106.07447
       https://huggingface.co/docs/transformers/model_doc/hubert
@@ -9,14 +9,14 @@ This is for presentation about self supervised models.
       https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html (* This is very good)
       https://github.com/facebookresearch/av_hubert
       
-  2. WavLM:
+  2. 
       WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing (Microsoft)
       https://arxiv.org/abs/2110.13900
       https://huggingface.co/docs/transformers/model_doc/wavlm
       https://github.com/microsoft/unilm/tree/master/wavlm
   
-  3. Wav2vec2:
-      WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing (Microsoft)
+  3. 
+      Wav2vec2: A Framework for Self-Supervised Learning of Speech Representations
       https://arxiv.org/abs/2006.11477
       https://huggingface.co/masoudmzb/wav2vec2-xlsr-multilingual-53-fa
       https://github.com/Hamtech-ai/wav2vec2-fa
@@ -29,7 +29,7 @@ This is for presentation about self supervised models.
       https://arxiv.org/abs/2101.06699 (Efficiently Fusing Pretrained Acoustic and Linguistic Encoders for Low-resource Speech Recognition)
       https://pytorch.org/tutorials/intermediate/speech_recognition_pipeline_tutorial.html
       
-  4.UniSpeechSAT:
+  4.  
       UniSpeechSAT: SELF-SUPERVISED LEARNING FOR SPEECH RECOGNITION WITH INTERMEDIATE LAYER SUPERVISION (Microsoft)
       https://arxiv.org/abs/2112.08778
       https://github.com/microsoft/UniSpeech
