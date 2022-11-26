@@ -1,9 +1,9 @@
 # SelfSupervised-models-repo
-This is for presentation about self supervised models.\
+This is for presentation about self supervised models./
 
   1. 
       HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units (Facebook)
-      https://arxiv.org/abs/2106.07447
+      <li>https://arxiv.org/abs/2106.07447</li>
       https://huggingface.co/docs/transformers/model_doc/hubert
       https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression/
       https://blog.devgenius.io/hubert-explained-6ec7c2bf71fc
