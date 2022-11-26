@@ -1,14 +1,14 @@
 # SelfSupervised-models-repo
-This is for presentation about self supervised models./
+This is for presentation about self supervised models.<br/>
 
   1. 
       <li>HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units (Facebook)</li>
       <li>https://arxiv.org/abs/2106.07447</li>
-      https://huggingface.co/docs/transformers/model_doc/hubert
-      https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression/
-      https://blog.devgenius.io/hubert-explained-6ec7c2bf71fc
-      https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html (* This is very good)
-      https://github.com/facebookresearch/av_hubert
+      https://huggingface.co/docs/transformers/model_doc/hubert<br/>
+      https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression/<br/>
+      https://blog.devgenius.io/hubert-explained-6ec7c2bf71fc<br/>
+      https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html (* This is very good)<br/>
+      https://github.com/facebookresearch/av_hubert<br/>
       
   2. 
       WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing (Microsoft)
