@@ -38,3 +38,4 @@ This is for presentation about self supervised models.<br/>
  5. Other:
       https://arxiv.org/pdf/2110.05777.pdf (Large-scale Self-Supervised Speech Representation Learning for Automatic Speaker Verification)<br/>
       https://arxiv.org/pdf/2206.01685.pdf (Toward a realistic model of speech processing in the brain with self-supervised learning) (* It is Important)<br/>
+      https://syncedreview.com/2019/02/22/yann-lecun-cake-analogy-2-0/<br/>
