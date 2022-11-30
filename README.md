@@ -1,4 +1,4 @@
-# SelfSupervised-models-repo
+# SelfSupervised-Speech-models-repo
 This is for presentation about self supervised models.<br/>
 
   1. 
@@ -35,6 +35,11 @@ This is for presentation about self supervised models.<br/>
       https://arxiv.org/abs/2112.08778<br/>
       https://github.com/microsoft/UniSpeech<br/>
       
- 5. Other:
+ 5. Other:<br/>
       https://arxiv.org/pdf/2110.05777.pdf (Large-scale Self-Supervised Speech Representation Learning for Automatic Speaker Verification)<br/>
       https://arxiv.org/pdf/2206.01685.pdf (Toward a realistic model of speech processing in the brain with self-supervised learning) (* It is Important)<br/>
+      https://syncedreview.com/2019/02/22/yann-lecun-cake-analogy-2-0/<br/>
+ 6. Implement Guide:<br/>
+      https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec<br/>
+      https://huggingface.co/docs/transformers/model_doc/wavlm#transformers.WavLMForXVector<br/>
+        https://colab.research.google.com/github/m3hrdadfi/notebooks/blob/main/Fine_Tune_XLSR_Wav2Vec2_on_Persian_ShEMO_ASR_with_%F0%9F%A4%97_Transformers_ipynb.ipynb<br/>
