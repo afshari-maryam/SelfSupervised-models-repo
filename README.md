@@ -1,4 +1,4 @@
-# SelfSupervised-models-repo
+# SelfSupervised-Speech-models-repo
 This is for presentation about self supervised models.<br/>
 
   1. 
