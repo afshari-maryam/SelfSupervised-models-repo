@@ -37,7 +37,7 @@ This is for presentation about self supervised models.<br/>
       
 
  5. Compare models:<br/>      
-      Superb benchmark : https://superbbenchmark.org/leaderboard?subset=Public+Set<br/>
+       https://superbbenchmark.org/leaderboard?subset=Public+Set (Superb benchmark)<br/>
       
  6. Other:<br/>
       https://arxiv.org/pdf/2110.05777.pdf (Large-scale Self-Supervised Speech Representation Learning for Automatic Speaker Verification)<br/>
